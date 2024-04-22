@@ -1,2 +1,2 @@
 Data Machine Learning project.
-Developing user web-interface with 'streamlit' library for using trained in Orange3 ML-models.
+Developing user web-interface with 'streamlit' library for using Orange3 trained ML-models.
